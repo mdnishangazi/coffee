@@ -6,6 +6,10 @@
 5. For staging: git add 'filename' || for all: git add --all / git add .
 6. To Commit: git commit > top: "2 files added"(ESC) > botton: ":x"(enter) short way: git 
 	commit -m "chocolate added"
-7. Commit log(id, author, date): git log / One line: git log --oneline
+6.1 Commit log(id, author, date): git log / One line: git log --oneline
+6.2 To change stage: git checkout serial_number
+7. To come back previous file: git checkout master
+8. To see last modification: git diff
+9. 
 
  
