@@ -1,0 +1,7 @@
+1. first initialize: git init
+2. set name & email(global): git config --global user.name/email "nishan"/"a@gmail.com".
+2.1 set name & email(loal): git config user.name/email "name"/"a@gmail.com"
+3. To check list: git config --list
+4. To rescan: git status
+5. For staging: git add 'filename' || for all: git add --all / git add .
+6. 
