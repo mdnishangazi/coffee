@@ -4,5 +4,8 @@
 3. To check list: git config --list
 4. To rescan: git status
 5. For staging: git add 'filename' || for all: git add --all / git add .
-6. To Commit: git commit > top: "2 files added"(ESC) > botton: ":x"(enter) short way: 
-7. 
+6. To Commit: git commit > top: "2 files added"(ESC) > botton: ":x"(enter) short way: git 
+	commit -m "chocolate added"
+7. Commit log(id, author, date): git log / One line: git log --oneline
+
+ 
